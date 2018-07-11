@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="tvname">Name</string>
+    <string name="tvgpa">GPA</string>
+    <string name="rbMale">Male</string>
+    <string name="rbfemale">Female</string>
+</resources>
